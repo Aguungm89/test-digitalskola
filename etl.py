@@ -1,2 +1,3 @@
 class ELT:
-    pass
+    def __init__(self) -> None:
+        print("tambahan")
